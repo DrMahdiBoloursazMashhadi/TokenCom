@@ -1,11 +1,22 @@
 # Token Communication (TokenCom) Papers
-A curated list of research papers on Token Communications (TokenCom).
+TokCom is a new paradigm, motivated by the recent success of Large AI Models (LAMs) and Multimodal Large Language Models (MLLMs), where tokens are the unified units of computations and communications, enabling efficient semantic- and goal-oriented communications in future wireless networks. TokenCom addresses the lack of generalizability gap in the conventional semantic- and goal-oriented communications. Tokens are the universal semantic carrying units in TokenCom that unify modalities and generalize beyonds tasks and datasets. 
 
-## Papers
+transformer-based token
+processing at the transmitter and receiver. In this paper, we
+introduce the potential opportunities and challenges of leveraging
+context in GenSC, explore how to integrate GFM/MLLMsbased token processing into semantic communication systems to
+leverage cross-modal context effectively at affordable complexity,
+present the key principles for efficient TokCom at various
+layers in future wireless networks. In a typical image semantic
+communication setup, we demonstrate a significant improvement
+of the bandwidth efficiency, achieved by TokCom by leveraging
+the context information among tokens. Finally, the potential
+research directions are identified to facilitate adoption of TokCom
+in future wireless networks.A curated list of research papers on Token Communications (TokenCom).
 
-1. Li Qiao, M.B. Mashhadi, *Token Communications: A Large Model-Driven Framework for Cross-modal Context-aware Semantic Communications,* **IEEE WCM**, to appear, 2025.
+1. L Qiao, M.B. Mashhadi, *Token Communications: A Large Model-Driven Framework for Cross-modal Context-aware Semantic Communications,* **IEEE WCM**, to appear, 2025.
 2. L. Qiao, *Token-Domain Multiple Access: Exploiting Semantic Orthogonality for Collision Mitigation,* **IEEE INFOCOM Workshops**, London, 2025, pp. 1-6.
-3. Li Qiao, M.B. Mashhadi, *ToDMA: Large Model-Driven Token-Domain Multiple Access for Semantic Communications,* arXiv:2505.10946v1 [cs.IT], 16 May 2025.
+3. L Qiao, M.B. Mashhadi, *ToDMA: Large Model-Driven Token-Domain Multiple Access for Semantic Communications,* arXiv:2505.10946v1 [cs.IT], 16 May 2025.
 4. S. Lee, J. Park, J. Choi, H. Park, *Semantic Packet Aggregation for Token Communication via Genetic Beam Search,* **IEEE SPAWC 2025**, pp. 1-5.
 5. A. Devoto et al., *Adaptive Semantic Token Selection for AI-native Goal-oriented Communications,* **IEEE Globecom Workshops**, 2024, pp. 1-6. 
 6. B. Liu et al., *Text-Guided Token Communication for Wireless Image Transmission,* **IEEE ICCC 2025**, pp. 1-6.
