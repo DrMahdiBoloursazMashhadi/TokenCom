@@ -15,11 +15,11 @@ Below is a curated list of research papers on TokenCom (keeps updating):
 1. L Qiao et al., *Token Communications: A Large Model-Driven Framework for Cross-modal Context-aware Semantic Communications,* **IEEE WCM**, to appear, 2025.
 2. L. Qiao et al., *Token-Domain Multiple Access: Exploiting Semantic Orthogonality for Collision Mitigation,* **IEEE INFOCOM Workshops**, London, 2025, pp. 1-6.
 3. L Qiao et al., *ToDMA: Large Model-Driven Token-Domain Multiple Access for Semantic Communications,* arXiv:2505.10946v1 [cs.IT], 16 May 2025.
-4. S. Lee et al., *Semantic Packet Aggregation for Token Communication via Genetic Beam Search,* **IEEE SPAWC 2025**, pp. 1-5.
-5. A. Devoto et al., *Adaptive Semantic Token Selection for AI-native Goal-oriented Communications,* **IEEE Globecom Workshops**, 2024, pp. 1-6. 
-6. B. Liu et al., *Text-Guided Token Communication for Wireless Image Transmission,* **IEEE ICCC 2025**, pp. 1-6.
-7. J. Peng et al., *Large Model Empowered Multi-Modal Semantic Communication With Selective Tokens for Training,* **IEEE SPL**, vol. 32, pp. 2967-2971, 2025.
-8. Z. Liu et al., *ResiTok: A Resilient Tokenization-Enabled Framework for Ultra-Low-Rate and Robust Image Transmission,* **IEEE SPAWC 2025**, pp. 1-5.
+4. Z. Liu et al., *ResiTok: A Resilient Tokenization-Enabled Framework for Ultra-Low-Rate and Robust Image Transmission,* **IEEE SPAWC 2025**, pp. 1-5.
+5. S. Lee et al., *Semantic Packet Aggregation for Token Communication via Genetic Beam Search,* **IEEE SPAWC 2025**, pp. 1-5.
+6. A. Devoto et al., *Adaptive Semantic Token Selection for AI-native Goal-oriented Communications,* **IEEE Globecom Workshops**, 2024, pp. 1-6. 
+7. B. Liu et al., *Text-Guided Token Communication for Wireless Image Transmission,* **IEEE ICCC 2025**, pp. 1-6.
+8. J. Peng et al., *Large Model Empowered Multi-Modal Semantic Communication With Selective Tokens for Training,* **IEEE SPL**, vol. 32, pp. 2967-2971, 2025.
 9. S. Wang et al., *ResiComp: Loss-Resilient Image Compression via Dual-Functional Masked Visual Token Modeling,* **IEEE TCSVT**, vol. 35, no. 7, pp. 7181-7195, July 2025.
 10. S. Li et al., *Low-Complexity Semantic Packet Aggregation for Token Communication via Lookahead Search,* arXiv:2506.19451v1 [eess.SP], 24 Jun 2025.
 11. A. Devoto et al., *Adaptive Semantic Token Communication for Transformer-based Edge Inference,* arXiv:2505.17604v1 [cs.LG], 23 May 2025.
