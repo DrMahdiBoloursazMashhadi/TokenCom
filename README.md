@@ -10,6 +10,8 @@ Fig. 1 Basic TokenCom framework.
 
 Below is a curated list of research papers on TokenCom (keeps updating):
 
+</div>
+
 1. L Qiao et al., *Token Communications: A Large Model-Driven Framework for Cross-modal Context-aware Semantic Communications,* **IEEE WCM**, to appear, 2025.
 2. L. Qiao et al., *Token-Domain Multiple Access: Exploiting Semantic Orthogonality for Collision Mitigation,* **IEEE INFOCOM Workshops**, London, 2025, pp. 1-6.
 3. L Qiao et al., *ToDMA: Large Model-Driven Token-Domain Multiple Access for Semantic Communications,* arXiv:2505.10946v1 [cs.IT], 16 May 2025.
@@ -23,5 +25,3 @@ Below is a curated list of research papers on TokenCom (keeps updating):
 11. A. Devoto et al., *Adaptive Semantic Token Communication for Transformer-based Edge Inference,* arXiv:2505.17604v1 [cs.LG], 23 May 2025.
 12. H. Wei et al., *Token Communication in the Era of Large Models: An Information Bottleneck-Based Approach,* arXiv:2507.01728v1 [eess.SP], 2 Jul 2025.
 13. J. Zhang et al., *Token Communication-Driven Multimodal Large Models in Resource-Constrained Multiuser Networks,* arXiv:2505.07841v1 [cs.NI], 6 May 2025.
-
-</div>
