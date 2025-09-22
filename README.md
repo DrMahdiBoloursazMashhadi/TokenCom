@@ -1,18 +1,8 @@
 # Token Communication (TokenCom) Papers
-TokCom is a new paradigm, motivated by the recent success of Large AI Models (LAMs) and Multimodal Large Language Models (MLLMs), where tokens are the unified units of computations and communications, enabling efficient semantic- and goal-oriented communications in future wireless networks. TokenCom addresses the lack of generalizability gap in the conventional semantic- and goal-oriented communications. Tokens are the universal semantic carrying units in TokenCom that unify modalities and generalize beyonds tasks and datasets. 
+TokCom is a new paradigm, motivated by the recent success of Large AI Models (LAMs) and Multimodal Large Language Models (MLLMs), where tokens are the unified units of computations and communications, enabling efficient semantic- and goal-oriented communications in future wireless networks. TokenCom addresses the lack of generalizability gap in the conventional semantic- and goal-oriented communications. Tokens are the universal semantic carrying units in TokenCom that unify modalities and generalize beyonds tasks and datasets. Tokens are the basic processing units of text, images, audio/video signals, in SOTA LAMs and MLLMs that represent words, image patches, temporal audio slices, or video subframes, and capture the semantic content of different modalities in a similar way, i.e. through information-rich features in a pre-trained cross-modal shared vector embedding space. TokenCom leverages transformer-based processing to efficiently encode/decode the semantic content leveraging the context information between tokens in the same vicity or across modalities. Fig. 1 depicts the basic TokenCom framework.
 
-transformer-based token
-processing at the transmitter and receiver. In this paper, we
-introduce the potential opportunities and challenges of leveraging
-context in GenSC, explore how to integrate GFM/MLLMsbased token processing into semantic communication systems to
-leverage cross-modal context effectively at affordable complexity,
-present the key principles for efficient TokCom at various
-layers in future wireless networks. In a typical image semantic
-communication setup, we demonstrate a significant improvement
-of the bandwidth efficiency, achieved by TokCom by leveraging
-the context information among tokens. Finally, the potential
-research directions are identified to facilitate adoption of TokCom
-in future wireless networks.A curated list of research papers on Token Communications (TokenCom).
+<img width="850" height="339" alt="image" src="https://github.com/user-attachments/assets/f4e67b08-4ec7-448c-afc5-d435a9790977" />
+Fig. 1 Basic TokenCom framework.
 
 1. L Qiao, M.B. Mashhadi, *Token Communications: A Large Model-Driven Framework for Cross-modal Context-aware Semantic Communications,* **IEEE WCM**, to appear, 2025.
 2. L. Qiao, *Token-Domain Multiple Access: Exploiting Semantic Orthogonality for Collision Mitigation,* **IEEE INFOCOM Workshops**, London, 2025, pp. 1-6.
