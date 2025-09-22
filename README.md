@@ -1,9 +1,5 @@
-# TokenCom
+# Token Communication (TokenCom) Papers
 A curated list of research papers on Token Communications (TokenCom).
-
-# Token Communication Papers
-
-A curated list of research on Token Communication, semantic communications, and related areas.
 
 ## Papers
 
