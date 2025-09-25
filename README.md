@@ -6,7 +6,7 @@ Token Communication (TokenCom) is a new paradigm, motivated by the recent succes
 
 <img width="850" height="339" alt="image" src="https://github.com/user-attachments/assets/f4e67b08-4ec7-448c-afc5-d435a9790977" />
 
-Fig. 1 Basic TokenCom framework.
+Fig. 1 Basic TokenCom framework [1].
 
 Below is a curated list of research papers on TokenCom (keeps updating):
 
