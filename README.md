@@ -25,3 +25,4 @@ Below is a curated list of research papers on TokenCom (keeps updating):
 11. A. Devoto et al., *Adaptive Semantic Token Communication for Transformer-based Edge Inference,* arXiv:2505.17604v1 [cs.LG], 23 May 2025.
 12. H. Wei et al., *Token Communication in the Era of Large Models: An Information Bottleneck-Based Approach,* arXiv:2507.01728v1 [eess.SP], 2 Jul 2025.
 13. J. Zhang et al., *Token Communication-Driven Multimodal Large Models in Resource-Constrained Multiuser Networks,* arXiv:2505.07841v1 [cs.NI], 6 May 2025.
+14. F. Zeinali et al., *Wireless TokenCom: RL-Based Tokenizer Agreement for Multi-User Wireless Token Communications,* arXiv:2602.12338v1 [cs.LG], 12 Feb. 2026.
